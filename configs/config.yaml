@@ -1,0 +1,7 @@
+server:
+  host: "localhost"
+  port: 8080
+
+database:
+  project_id: "technology-cloud-75d1f"
+

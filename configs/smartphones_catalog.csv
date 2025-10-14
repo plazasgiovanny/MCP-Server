@@ -1,0 +1,128 @@
+sku,activo,categoria,fechaActualizacion,fechaCreacion,imagenUrl,nombre,nombreProveedor,precio,stock
+TEL-APP-I15P-256,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/iphone-15-pro.jpg,iPhone 15 Pro 256GB,Apple,4500000,85
+TEL-APP-I15P-512,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/iphone-15-pro-512.jpg,iPhone 15 Pro 512GB,Apple,5200000,65
+TEL-APP-I15P-1TB,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/iphone-15-pro-1tb.jpg,iPhone 15 Pro 1TB,Apple,6200000,45
+TEL-APP-I15-128,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/iphone-15.jpg,iPhone 15 128GB,Apple,3800000,95
+TEL-APP-I15-256,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/iphone-15-256.jpg,iPhone 15 256GB,Apple,4200000,75
+TEL-APP-I14P-256,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/iphone-14-pro.jpg,iPhone 14 Pro 256GB,Apple,3900000,60
+TEL-APP-I14P-512,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/iphone-14-pro-512.jpg,iPhone 14 Pro 512GB,Apple,4600000,50
+TEL-APP-I14-128,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/iphone-14.jpg,iPhone 14 128GB,Apple,3200000,80
+TEL-APP-I14-256,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/iphone-14-256.jpg,iPhone 14 256GB,Apple,3600000,70
+TEL-APP-I13P-256,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/iphone-13-pro.jpg,iPhone 13 Pro 256GB,Apple,3400000,55
+TEL-SAM-S24U-512,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/galaxy-s24-ultra.jpg,Samsung Galaxy S24 Ultra 512GB,Samsung Colombia,6500000,180
+TEL-SAM-S24U-256,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/galaxy-s24-ultra-256.jpg,Samsung Galaxy S24 Ultra 256GB,Samsung Colombia,5800000,150
+TEL-SAM-S24U-1TB,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/galaxy-s24-ultra-1tb.jpg,Samsung Galaxy S24 Ultra 1TB,Samsung Colombia,7200000,120
+TEL-SAM-S24P-256,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/galaxy-s24-plus.jpg,Samsung Galaxy S24 Plus 256GB,Samsung Colombia,4800000,140
+TEL-SAM-S24P-512,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/galaxy-s24-plus-512.jpg,Samsung Galaxy S24 Plus 512GB,Samsung Colombia,5500000,110
+TEL-SAM-S24-128,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/galaxy-s24.jpg,Samsung Galaxy S24 128GB,Samsung Colombia,3800000,160
+TEL-SAM-S24-256,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/galaxy-s24-256.jpg,Samsung Galaxy S24 256GB,Samsung Colombia,4200000,130
+TEL-SAM-S23U-256,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/galaxy-s23-ultra.jpg,Samsung Galaxy S23 Ultra 256GB,Samsung Colombia,5200000,90
+TEL-SAM-S23U-512,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/galaxy-s23-ultra-512.jpg,Samsung Galaxy S23 Ultra 512GB,Samsung Colombia,6000000,75
+TEL-SAM-S23P-256,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/galaxy-s23-plus.jpg,Samsung Galaxy S23 Plus 256GB,Samsung Colombia,4200000,100
+TEL-GOO-PX8-128,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/pixel-8.jpg,Google Pixel 8 128GB,Importadora USA,2399899,75
+TEL-GOO-PX8-256,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/pixel-8-256.jpg,Google Pixel 8 256GB,Importadora USA,2799899,65
+TEL-GOO-PX8P-128,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/pixel-8-pro.jpg,Google Pixel 8 Pro 128GB,Importadora USA,3199899,55
+TEL-GOO-PX8P-256,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/pixel-8-pro-256.jpg,Google Pixel 8 Pro 256GB,Importadora USA,3599899,45
+TEL-GOO-PX8P-512,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/pixel-8-pro-512.jpg,Google Pixel 8 Pro 512GB,Importadora USA,4199899,35
+TEL-GOO-PX7-128,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/pixel-7.jpg,Google Pixel 7 128GB,Importadora USA,1999899,85
+TEL-GOO-PX7-256,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/pixel-7-256.jpg,Google Pixel 7 256GB,Importadora USA,2299899,70
+TEL-GOO-PX7P-128,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/pixel-7-pro.jpg,Google Pixel 7 Pro 128GB,Importadora USA,2599899,60
+TEL-GOO-PX7P-256,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/pixel-7-pro-256.jpg,Google Pixel 7 Pro 256GB,Importadora USA,2899899,50
+TEL-GOO-PX7P-512,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/pixel-7-pro-512.jpg,Google Pixel 7 Pro 512GB,Importadora USA,3299899,40
+TEL-MOT-EDGE40-128,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/motorola-edge-40.jpg,Motorola Edge 40 128GB,Motorola Colombia,1380000,150
+TEL-MOT-EDGE40-256,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/motorola-edge-40-256.jpg,Motorola Edge 40 256GB,Motorola Colombia,1580000,120
+TEL-MOT-EDGE30-128,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/motorola-edge-30.jpg,Motorola Edge 30 128GB,Motorola Colombia,1180000,130
+TEL-MOT-EDGE30-256,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/motorola-edge-30-256.jpg,Motorola Edge 30 256GB,Motorola Colombia,1380000,110
+TEL-MOT-G73-128,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/motorola-g73.jpg,Motorola G73 128GB,Motorola Colombia,890000,180
+TEL-MOT-G73-256,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/motorola-g73-256.jpg,Motorola G73 256GB,Motorola Colombia,1090000,150
+TEL-MOT-G53-128,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/motorola-g53.jpg,Motorola G53 128GB,Motorola Colombia,690000,200
+TEL-MOT-G53-256,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/motorola-g53-256.jpg,Motorola G53 256GB,Motorola Colombia,890000,170
+TEL-MOT-G23-128,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/motorola-g23.jpg,Motorola G23 128GB,Motorola Colombia,490000,220
+TEL-MOT-G23-256,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/motorola-g23-256.jpg,Motorola G23 256GB,Motorola Colombia,690000,190
+TEL-ONE-11-128,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/oneplus-11.jpg,OnePlus 11 128GB,OnePlus LATAM,2899999,60
+TEL-ONE-11-256,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/oneplus-11-256.jpg,OnePlus 11 256GB,OnePlus LATAM,3299999,50
+TEL-ONE-11-512,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/oneplus-11-512.jpg,OnePlus 11 512GB,OnePlus LATAM,3899999,40
+TEL-ONE-10P-128,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/oneplus-10-pro.jpg,OnePlus 10 Pro 128GB,OnePlus LATAM,2599999,55
+TEL-ONE-10P-256,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/oneplus-10-pro-256.jpg,OnePlus 10 Pro 256GB,OnePlus LATAM,2999999,45
+TEL-ONE-10P-512,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/oneplus-10-pro-512.jpg,OnePlus 10 Pro 512GB,OnePlus LATAM,3599999,35
+TEL-ONE-9-128,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/oneplus-9.jpg,OnePlus 9 128GB,OnePlus LATAM,1999999,70
+TEL-ONE-9-256,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/oneplus-9-256.jpg,OnePlus 9 256GB,OnePlus LATAM,2399999,60
+TEL-ONE-9P-128,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/oneplus-9-pro.jpg,OnePlus 9 Pro 128GB,OnePlus LATAM,2299999,50
+TEL-ONE-9P-256,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/oneplus-9-pro-256.jpg,OnePlus 9 Pro 256GB,OnePlus LATAM,2699999,40
+TEL-XIA-MI13-128,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/xiaomi-mi-13.jpg,Xiaomi Mi 13 128GB,Xiaomi Colombia,2199999,80
+TEL-XIA-MI13-256,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/xiaomi-mi-13-256.jpg,Xiaomi Mi 13 256GB,Xiaomi Colombia,2499999,70
+TEL-XIA-MI13-512,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/xiaomi-mi-13-512.jpg,Xiaomi Mi 13 512GB,Xiaomi Colombia,2899999,60
+TEL-XIA-MI13P-128,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/xiaomi-mi-13-pro.jpg,Xiaomi Mi 13 Pro 128GB,Xiaomi Colombia,2599999,65
+TEL-XIA-MI13P-256,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/xiaomi-mi-13-pro-256.jpg,Xiaomi Mi 13 Pro 256GB,Xiaomi Colombia,2899999,55
+TEL-XIA-MI13P-512,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/xiaomi-mi-13-pro-512.jpg,Xiaomi Mi 13 Pro 512GB,Xiaomi Colombia,3299999,45
+TEL-XIA-MI12-128,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/xiaomi-mi-12.jpg,Xiaomi Mi 12 128GB,Xiaomi Colombia,1799999,90
+TEL-XIA-MI12-256,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/xiaomi-mi-12-256.jpg,Xiaomi Mi 12 256GB,Xiaomi Colombia,2099999,80
+TEL-XIA-MI12P-128,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/xiaomi-mi-12-pro.jpg,Xiaomi Mi 12 Pro 128GB,Xiaomi Colombia,2199999,70
+TEL-XIA-MI12P-256,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/xiaomi-mi-12-pro-256.jpg,Xiaomi Mi 12 Pro 256GB,Xiaomi Colombia,2499999,60
+TEL-XIA-MI12P-512,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/xiaomi-mi-12-pro-512.jpg,Xiaomi Mi 12 Pro 512GB,Xiaomi Colombia,2899999,50
+TEL-XIA-REDMI12-128,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/xiaomi-redmi-12.jpg,Xiaomi Redmi 12 128GB,Xiaomi Colombia,899999,120
+TEL-XIA-REDMI12-256,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/xiaomi-redmi-12-256.jpg,Xiaomi Redmi 12 256GB,Xiaomi Colombia,1099999,100
+TEL-XIA-REDMI11-128,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/xiaomi-redmi-11.jpg,Xiaomi Redmi 11 128GB,Xiaomi Colombia,699999,140
+TEL-XIA-REDMI11-256,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/xiaomi-redmi-11-256.jpg,Xiaomi Redmi 11 256GB,Xiaomi Colombia,899999,120
+TEL-XIA-REDMI10-128,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/xiaomi-redmi-10.jpg,Xiaomi Redmi 10 128GB,Xiaomi Colombia,599999,160
+TEL-XIA-REDMI10-256,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/xiaomi-redmi-10-256.jpg,Xiaomi Redmi 10 256GB,Xiaomi Colombia,799999,140
+TEL-XIA-REDMI9-128,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/xiaomi-redmi-9.jpg,Xiaomi Redmi 9 128GB,Xiaomi Colombia,499999,180
+TEL-XIA-REDMI9-256,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/xiaomi-redmi-9-256.jpg,Xiaomi Redmi 9 256GB,Xiaomi Colombia,699999,160
+TEL-HUA-P60-128,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/huawei-p60.jpg,Huawei P60 128GB,Huawei Colombia,2899999,50
+TEL-HUA-P60-256,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/huawei-p60-256.jpg,Huawei P60 256GB,Huawei Colombia,3299999,40
+TEL-HUA-P60-512,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/huawei-p60-512.jpg,Huawei P60 512GB,Huawei Colombia,3899999,30
+TEL-HUA-P50-128,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/huawei-p50.jpg,Huawei P50 128GB,Huawei Colombia,2299999,60
+TEL-HUA-P50-256,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/huawei-p50-256.jpg,Huawei P50 256GB,Huawei Colombia,2699999,50
+TEL-HUA-P50-512,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/huawei-p50-512.jpg,Huawei P50 512GB,Huawei Colombia,3299999,40
+TEL-HUA-MATE50-128,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/huawei-mate-50.jpg,Huawei Mate 50 128GB,Huawei Colombia,3199999,45
+TEL-HUA-MATE50-256,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/huawei-mate-50-256.jpg,Huawei Mate 50 256GB,Huawei Colombia,3599999,35
+TEL-HUA-MATE50-512,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/huawei-mate-50-512.jpg,Huawei Mate 50 512GB,Huawei Colombia,4199999,25
+TEL-HUA-MATE40-128,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/huawei-mate-40.jpg,Huawei Mate 40 128GB,Huawei Colombia,2599999,55
+TEL-HUA-MATE40-256,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/huawei-mate-40-256.jpg,Huawei Mate 40 256GB,Huawei Colombia,2999999,45
+TEL-HUA-MATE40-512,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/huawei-mate-40-512.jpg,Huawei Mate 40 512GB,Huawei Colombia,3599999,35
+TEL-HUA-NOVA11-128,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/huawei-nova-11.jpg,Huawei Nova 11 128GB,Huawei Colombia,1899999,70
+TEL-HUA-NOVA11-256,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/huawei-nova-11-256.jpg,Huawei Nova 11 256GB,Huawei Colombia,2199999,60
+TEL-HUA-NOVA10-128,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/huawei-nova-10.jpg,Huawei Nova 10 128GB,Huawei Colombia,1599999,80
+TEL-HUA-NOVA10-256,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/huawei-nova-10-256.jpg,Huawei Nova 10 256GB,Huawei Colombia,1899999,70
+TEL-HUA-NOVA9-128,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/huawei-nova-9.jpg,Huawei Nova 9 128GB,Huawei Colombia,1299999,90
+TEL-HUA-NOVA9-256,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/huawei-nova-9-256.jpg,Huawei Nova 9 256GB,Huawei Colombia,1599999,80
+TEL-OPP-FINDX6-128,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/oppo-find-x6.jpg,Oppo Find X6 128GB,Oppo Colombia,2599999,65
+TEL-OPP-FINDX6-256,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/oppo-find-x6-256.jpg,Oppo Find X6 256GB,Oppo Colombia,2899999,55
+TEL-OPP-FINDX6-512,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/oppo-find-x6-512.jpg,Oppo Find X6 512GB,Oppo Colombia,3399999,45
+TEL-OPP-FINDX5-128,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/oppo-find-x5.jpg,Oppo Find X5 128GB,Oppo Colombia,2199999,75
+TEL-OPP-FINDX5-256,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/oppo-find-x5-256.jpg,Oppo Find X5 256GB,Oppo Colombia,2499999,65
+TEL-OPP-FINDX5-512,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/oppo-find-x5-512.jpg,Oppo Find X5 512GB,Oppo Colombia,2999999,55
+TEL-OPP-RENO10-128,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/oppo-reno-10.jpg,Oppo Reno 10 128GB,Oppo Colombia,1799999,85
+TEL-OPP-RENO10-256,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/oppo-reno-10-256.jpg,Oppo Reno 10 256GB,Oppo Colombia,2099999,75
+TEL-OPP-RENO9-128,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/oppo-reno-9.jpg,Oppo Reno 9 128GB,Oppo Colombia,1499999,95
+TEL-OPP-RENO9-256,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/oppo-reno-9-256.jpg,Oppo Reno 9 256GB,Oppo Colombia,1799999,85
+TEL-OPP-RENO8-128,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/oppo-reno-8.jpg,Oppo Reno 8 128GB,Oppo Colombia,1199999,105
+TEL-OPP-RENO8-256,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/oppo-reno-8-256.jpg,Oppo Reno 8 256GB,Oppo Colombia,1499999,95
+TEL-VIV-X90-128,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/vivo-x90.jpg,Vivo X90 128GB,Vivo Colombia,2399999,60
+TEL-VIV-X90-256,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/vivo-x90-256.jpg,Vivo X90 256GB,Vivo Colombia,2699999,50
+TEL-VIV-X90-512,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/vivo-x90-512.jpg,Vivo X90 512GB,Vivo Colombia,3199999,40
+TEL-VIV-X80-128,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/vivo-x80.jpg,Vivo X80 128GB,Vivo Colombia,1999999,70
+TEL-VIV-X80-256,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/vivo-x80-256.jpg,Vivo X80 256GB,Vivo Colombia,2299999,60
+TEL-VIV-X80-512,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/vivo-x80-512.jpg,Vivo X80 512GB,Vivo Colombia,2799999,50
+TEL-VIV-V29-128,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/vivo-v29.jpg,Vivo V29 128GB,Vivo Colombia,1599999,80
+TEL-VIV-V29-256,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/vivo-v29-256.jpg,Vivo V29 256GB,Vivo Colombia,1899999,70
+TEL-VIV-V27-128,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/vivo-v27.jpg,Vivo V27 128GB,Vivo Colombia,1299999,90
+TEL-VIV-V27-256,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/vivo-v27-256.jpg,Vivo V27 256GB,Vivo Colombia,1599999,80
+TEL-VIV-V25-128,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/vivo-v25.jpg,Vivo V25 128GB,Vivo Colombia,999999,100
+TEL-VIV-V25-256,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/vivo-v25-256.jpg,Vivo V25 256GB,Vivo Colombia,1299999,90
+TEL-VIV-V23-128,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/vivo-v23.jpg,Vivo V23 128GB,Vivo Colombia,799999,110
+TEL-VIV-V23-256,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/vivo-v23-256.jpg,Vivo V23 256GB,Vivo Colombia,1099999,100
+TEL-REA-GT3-128,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/realme-gt3.jpg,Realme GT3 128GB,Realme Colombia,1899999,75
+TEL-REA-GT3-256,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/realme-gt3-256.jpg,Realme GT3 256GB,Realme Colombia,2199999,65
+TEL-REA-GT3-512,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/realme-gt3-512.jpg,Realme GT3 512GB,Realme Colombia,2699999,55
+TEL-REA-GT2-128,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/realme-gt2.jpg,Realme GT2 128GB,Realme Colombia,1599999,85
+TEL-REA-GT2-256,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/realme-gt2-256.jpg,Realme GT2 256GB,Realme Colombia,1899999,75
+TEL-REA-GT2-512,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/realme-gt2-512.jpg,Realme GT2 512GB,Realme Colombia,2399999,65
+TEL-REA-NARZO60-128,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/realme-narzo-60.jpg,Realme Narzo 60 128GB,Realme Colombia,1199999,95
+TEL-REA-NARZO60-256,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/realme-narzo-60-256.jpg,Realme Narzo 60 256GB,Realme Colombia,1499999,85
+TEL-REA-NARZO50-128,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/realme-narzo-50.jpg,Realme Narzo 50 128GB,Realme Colombia,899999,105
+TEL-REA-NARZO50-256,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/realme-narzo-50-256.jpg,Realme Narzo 50 256GB,Realme Colombia,1199999,95
+TEL-REA-C55-128,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/realme-c55.jpg,Realme C55 128GB,Realme Colombia,699999,115
+TEL-REA-C55-256,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/realme-c55-256.jpg,Realme C55 256GB,Realme Colombia,899999,105
+TEL-REA-C53-128,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/realme-c53.jpg,Realme C53 128GB,Realme Colombia,599999,125
+TEL-REA-C53-256,true,Celulares,2025-09-18T22:10:18Z,2025-09-17T22:09:12Z,https://url-ficticia.com/images/realme-c53-256.jpg,Realme C53 256GB,Realme Colombia,799999,115
