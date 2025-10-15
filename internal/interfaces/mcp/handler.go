@@ -20,7 +20,7 @@ func NewMCPHandler(inventory *usecase.InventoryCases) *MCPHandler {
 	}
 }
 
-// RegisterTools registra las herramientas MCP para usuarios
+// RegisterTools registra las herramientas MCP
 func (h *MCPHandler) RegisterTools(mcpServer *server.MCPServer) error {
 	// Registrar herramientas
 	mcpServer.AddTool(h.managementTools.CreateNewProductTool(), h.managementTools.HandleCreateProduct)
