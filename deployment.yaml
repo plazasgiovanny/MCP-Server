@@ -1,0 +1,38 @@
+# Definimos la versión de la API de Kubernetes y el tipo de recurso
+apiVersion: apps/v1
+kind: Deployment
+
+# Metadatos básicos para identificar nuestro despliegue en el clúster
+metadata:
+  name: mcp-server-deployment # Nombre único del despliegue
+  labels:
+    app: mcp-server           # Etiqueta para organizar y filtrar recursos
+spec:
+  # PROPIEDAD CLAVE: Número de réplicas (instancias) de tu app corriendo en paralelo
+  replicas: 2 
+  
+  # El selector le dice al Deployment a qué Pods debe administrar
+  selector:
+    matchLabels:
+      app: mcp-server
+      
+  # La plantilla define cómo se verá cada "Pod" (contenedor) que se cree
+  template:
+    metadata:
+      labels:
+        app: mcp-server       # Esta etiqueta debe coincidir con el selector de arriba
+    spec:
+      # Aquí definimos los contenedores que vivirán dentro del Pod
+      containers:
+      - name: mcp-container
+        # RUTA DE LA IMAGEN: Aquí es donde K8s descarga tu código de Artifact Registry
+        image: us-central1-docker.pkg.dev/technology-cloud-75d1f/mcp-repo/mcp-server:v1
+        
+        # El puerto donde tu aplicación de Go está configurada para escuchar (según tu Dockerfile)
+        ports:
+        - containerPort: 8081
+        
+        # Gestión de recursos: Evita que un contenedor consuma toda la CPU del clúster
+        resources:
+          requests:
+            cpu: "100m"      # Recurso garantizado (0

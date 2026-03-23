@@ -1,0 +1,22 @@
+
+# Definimos la versión de la API y el tipo de recurso (Service)
+apiVersion: v1
+kind: Service
+
+# Metadatos del servicio
+metadata:
+  name: mcp-service          # Nombre que identifica al balanceador
+spec:
+  # TIPO DE SERVICIO: 'LoadBalancer' le pide a Google Cloud una IP pública real
+  type: LoadBalancer 
+  
+  # El selector es CRUCIAL: le dice al servicio a qué pods enviar el tráfico.
+  # Debe coincidir exactamente con las etiquetas (labels) del Deployment.
+  selector:
+    app: mcp-server
+    
+  # Configuración de los puertos
+  ports:
+    - protocol: TCP          # Protocolo de comunicación (estándar para HTTP)
+      port: 80               # PUERTO EXTERNO: El que usará el usuario en el navegador
+      targetPort: 8081       # PUERTO INTERNO: El puerto donde escucha tu app de Go

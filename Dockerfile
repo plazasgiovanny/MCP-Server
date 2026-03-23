@@ -1,7 +1,7 @@
 # Dockerfile para MCP Server
 
 # Etapa de construcción
-FROM golang:1.21-alpine AS builder
+FROM golang:1.24-alpine AS builder
 
 # Instalar dependencias del sistema
 RUN apk add --no-cache git ca-certificates tzdata
@@ -13,12 +13,12 @@ WORKDIR /app
 COPY go.mod go.sum ./
 
 # Descargar dependencias
-RUN go mod download
+RUN go mod tidy
 
 # Copiar código fuente
 COPY . .
 
-# Compilar la aplicación
+# Compilar la aplicación/
 RUN CGO_ENABLED=0 GOOS=linux go build -a -installsuffix cgo -o mcp-server ./cmd/main.go
 
 # Etapa de ejecución
@@ -47,7 +47,7 @@ RUN chown -R appuser:appgroup /app
 USER appuser
 
 # Exponer puerto
-EXPOSE 8080
+EXPOSE 8081
 
 # Comando por defecto
 CMD ["./mcp-server"]
