@@ -47,7 +47,7 @@ RUN chown -R appuser:appgroup /app
 USER appuser
 
 # Exponer puerto
-EXPOSE 8081
+EXPOSE 8080
 
 # Comando por defecto
 CMD ["./mcp-server"]
